@@ -13,7 +13,7 @@ This repository accompanies the bachelor thesis:
 > **"UAV Image Matching Method with Deep Learning Features"**  
 > Author: Dongze Li  
 > Institution: China University of Geosciences (Wuhan)  
-> [📄 Download Thesis (PDF)](./videos/uav_matching_paper.pdf)
+> [📄 Download Thesis (PDF)](./uav_matching_paper.pdf)
 
 ---
 
